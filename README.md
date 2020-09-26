@@ -1,5 +1,6 @@
 # crop_circle
-Crop a circle image with numpy
+Crop a circle from one image to another image by specifying the radiance and the coordinates of the source and destination.
+![test](explain.png)
 ## How to run the code:
 In the terminal:
 ```
